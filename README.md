@@ -60,3 +60,6 @@ If you still want to: [github.com/XXNOUR](https://github.com/XXNOUR)
 ---
 
 > "No resume. No pitch deck. Just commits."
+
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=317vft3y5zst47vcqvexzmysctnu&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false)](https://github.com/kittinan/spotify-github-profile)
+
