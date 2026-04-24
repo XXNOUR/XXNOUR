@@ -1,72 +1,52 @@
-# 👤 Light (aka Hades)
+# Light — aka Hades
 
-I code in Rust, break shit in C, and simulate chaos with Bevy.  
-Not here to impress. Just to build.
+Rust, C, and  Linux 
 
 ---
 
-## What i am listning to RN : 
-
+## 🎧 Currently playing
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=317vft3y5zst47vcqvexzmysctnu&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false)](https://github.com/kittinan/spotify-github-profile)
 
+---
 
+## 🛠 What I'm doing
 
-## 🔧 What I Do
-
-- I build physics systems in Rust with Bevy.
-- I write raw C to analyze IPs, bytes, whatever.
-- I use Linux because it doesn’t try to hold my hand.
-- I automate what I’m too bored to repeat.
-- I write my own hacker Linux distro called **LightOS**.
-- I break boxes on TryHackMe for fun.
+- **Vitruvius** — a privacy-first P2P LAN file sync tool in Rust. libp2p, mDNS discovery, TOFU key exchange, ChaCha20-Poly1305 over the wire. My CS thesis project.
+- **Entropic** — 2D physics in Bevy. Velocity, collisions, gravity, the works.
+- Breaking boxes on TryHackMe in my off hours.
 
 ---
 
-## ⚙️ Tech I Actually Use
+## ⚙️ The stack
 
-Rust, C, Bash, Bevy, Linux (EndeavourOS), Git, SQL, PHP, Devilbox, TryHackMe, Vim, i3, Hyprland.
+Rust · C · Bash · Bevy · libp2p · Tokio · Linux  · Hyprland · i3 · Vim · Git · SQL · PHP
 
 ---
 
-## 📂 Projects
+## 📂 Projects worth a look
+
+### [`Vitruvius`](https://github.com/XXNOUR/Vitruvius)
+Decentralized P2P LAN file sync. End-to-end encrypted with ChaCha20-Poly1305, peer trust via TOFU + X25519 key exchange, no servers, no accounts, no telemetry. Cross-platform binaries for Linux and Windows.
 
 ### [`Entropic`](https://github.com/XXNOUR/Entropic)
-2D physics sim built in Rust using Bevy. Handles velocity, collisions, gravity, real-time debug toggles.  
-Why? Because I got bored of seeing people simulate nothing.
-
-### [`IP Class Analyzer`](https://github.com/XXNOUR/Algo-DSA-in-C)
-Terminal tool written in C to classify IPs, print banners, color code classes, and educate normies.
+2D physics simulator in Rust + Bevy. Velocity integration, collision response, gravity, real-time debug toggles. Built it because most "physics demos" simulate nothing.
 
 ### [`Bevy_Click_Game`](https://github.com/XXNOUR/Bevy_Click_Game)
-Prototype click game written to test sprite logic, hitboxes, spawning, and input systems.
+Sandbox for sprite logic, hitboxes, spawning, and input systems in Bevy.
 
 ---
 
-## 🎮 Coming Next
+## 🧠 Numbers
 
-- A rogue-style game in Bevy.
-- A browser-based SQL hacking sim.
-- Finishing LightOS – a pentesting distro, by hackers for hackers.
-
----
-
-## 🧠 Stats That Actually Matter
-
-- TryHackMe: Mage, 8000 pts.
-- Advent of Code: Rust all the way.
-- Finished physics chapters while cutting on 1300 kcal/day.
+- TryHackMe — Mage rank, 8000+ pts
+- Advent of Code — Rust, every day
+- Years on Linux without going back: enough
 
 ---
 
-## 📫 Reach Me
+## 📬 Reach
 
-You don’t need to. Just look at the code.  
-If you still want to: [github.com/XXNOUR](https://github.com/XXNOUR)
+Read the code first. If you still want to talk: [github.com/XXNOUR](https://github.com/XXNOUR)
 
----
-
-> "No resume. No pitch deck. Just commits."
-
-
-
+> "No résumé. The commits speak."
